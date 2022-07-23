@@ -1,0 +1,35 @@
+* {
+    text-align: center;
+    font-family: 'Mulish', sans-serif;
+}
+body {
+    background-color: burlywood;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+ul {
+    list-style-type: none; 
+}
+
+#preperation {
+    text-align: justify;
+}
+
+/*
+This is how i centered everything until i realized i'll just center everything 
+h1, h2 {
+    text-align: center;
+}
+#footer {
+    text-align: center;
+}
+#main-menu {
+    text-align: center;
+}
+*/
