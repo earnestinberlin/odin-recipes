@@ -2,8 +2,9 @@
     text-align: center;
     font-family: 'Mulish', sans-serif;
 }
+
 body {
-    background-color: burlywood;
+    background-color: purple;
 }
 
 img {
@@ -21,6 +22,32 @@ ul {
     text-align: justify;
 }
 
+#rm-menu {
+    background-color: black;
+    color:aliceblue;
+}
+
+#jin-menu {
+    background-color: pink;
+}
+
+#suga-menu {
+    background-color: white;
+    color: black;
+}
+
+#hobi-menu {
+    background-color: #709f60;
+}
+
+#jimin-menu {
+    background-color: #809fff;
+}
+
+#jk-menu {
+    background-color: #b81414;
+    color: white;
+}
 /*
 This is how i centered everything until i realized i'll just center everything 
 h1, h2 {
